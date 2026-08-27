@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " 1 ",
+        "234",
+        "111"
+    ],
+    "key": {
+        "1": {"item": "electroenergetics:connector"},
+        "2": {"item": "create:shaft"},
+        "3": {"item": "electroenergetics:commutator"},
+        "4": {"item": "minecraft:iron_bars"}
+    },
+    "result": {
+        "id": "electroenergetics:three_phase_alternator_brushes",
+        "count": 1
+    }
+}

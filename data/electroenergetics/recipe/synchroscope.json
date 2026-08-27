@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "1 1",
+        "424",
+        " 3 "
+    ],
+    "key": {
+        "1": {"item": "electroenergetics:triple_connector"},
+        "2": {"item": "minecraft:clock"},
+        "3": {"item": "create:precision_mechanism"},
+        "4": {"item": "create:iron_sheet"}
+    },
+    "result": {
+        "id": "electroenergetics:synchroscope",
+        "count": 1
+    }
+}
