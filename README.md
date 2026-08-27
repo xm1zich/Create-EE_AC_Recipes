@@ -10,8 +10,13 @@ I tried making these recipes to match EE style as mush as possible, so if you fe
 
 ## Recipes
 - Frequency Meter (2x Connector, 1x Compass, 2x Iron Sheet)
+
 ![Frequency Meter](https://i.imgur.com/jL4lM3f.png)
+
 - Synchroscope (2x Triple Connector, 1x Clock, 1x Precision Mechanism, 2x Iron Sheet)
+
 ![Synchroscope](https://i.imgur.com/hCBCWM5.png)
+
 - Three Phase Alternator Brushes (4x Connector, 1x Shaft, 1x Commutator, 1x Iron Bars)
+
 ![Three Phase Alternator Brushes](https://i.imgur.com/IwhvCKg.png)
